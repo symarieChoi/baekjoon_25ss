@@ -21,7 +21,7 @@ int main(void)
         H %= 24;
     }
 
-    printf("%d %d", H, M);
+    printf("%d %d\n", H, M);
 
     return 0;
 }
